@@ -1,0 +1,25 @@
+{
+  "name": "sfcc_ichabod_crane",
+  "version": "0.1.0",
+  "description": "SFCC Headless Commerce app for reserve-in-store.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghgofort/sfcc_ichabod_crane.git"
+  },
+  "keywords": [
+    "SFCC"
+  ],
+  "author": "galengoforth@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghgofort/sfcc_ichabod_crane/issues"
+  },
+  "homepage": "https://github.com/ghgofort/sfcc_ichabod_crane#readme",
+  "dependencies": {
+    "commerce-sdk": "^2.1.0"
+  }
+}
