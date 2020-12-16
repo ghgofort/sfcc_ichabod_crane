@@ -1,0 +1,79 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AndroidLintTypos" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CheckTagEmptyBody" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DuplicatedCode" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="ES6CheckImport" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="ES6ConvertIndexedForToForOf" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="ES6ConvertModuleExportToExport" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="ES6ConvertRequireIntoImport" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="ES6ConvertToForOf" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="ES6ConvertVarToLetConst" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="ES6ModulesDependencies" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="ES6PreferShortImport" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ES6ShorthandObjectProperty" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="FlowJSConfig" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FlowJSFlagCommentPlacement" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="attribute" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="13">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="issnsv2universal" />
+            <item index="7" class="java.lang.String" itemvalue="issavisualcommerce" />
+            <item index="8" class="java.lang.String" itemvalue="iscontentasset" />
+            <item index="9" class="java.lang.String" itemvalue="isloadrnrcss" />
+            <item index="10" class="java.lang.String" itemvalue="isgetproductreview" />
+            <item index="11" class="java.lang.String" itemvalue="isgetproductaverage" />
+            <item index="12" class="java.lang.String" itemvalue="isapplepay" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="JSAnnotator" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="JSArrowFunctionBracesCanBeRemoved" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="JSCheckFunctionSignatures" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="JSFileReferences" enabled="true" level="WARNING" enabled_by_default="false">
+      <scope name="FrontendJS" level="WARNING" enabled="true" />
+      <scope name="BackendJS" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="JSFunctionExpressionToArrowFunction" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="JSObjectNullOrUndefined" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JSObsoletePrivateAccessSyntax" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="JSStringConcatenationToES6Template" enabled="false" level="INFORMATION" enabled_by_default="false" />
+    <inspection_tool class="JSUndeclaredVariable" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="JSUnresolvedFunction" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="JSUnresolvedVariable" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+      <option name="myStrictlyCheckProperties" value="false" />
+    </inspection_tool>
+    <inspection_tool class="JSValidateJSDoc" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="JSValidateTypes" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="JSXNamespaceValidation" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="NpmUsedModulesInstalled" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="TypeScriptCheckImport" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="TypeScriptLibrary" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="UnnecessaryLabelJS" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="UnnecessaryReturnJS" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="UnterminatedStatementJS" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoreSemicolonAtEndOfBlock" value="false" />
+    </inspection_tool>
+  </profile>
+</component>
